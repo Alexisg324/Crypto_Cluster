@@ -58,7 +58,7 @@ from sklearn.preprocessing import StandardScaler
 
 To use this application, the user will need to open the csv file (market crypto data) in the resources folder.  Then, the app will plot charts and calculate numbers automatically.  
 
-[Enter Pictures/step by step]
+[Enter Pictures/step by step when able to see code]
 
 ## Contributers
 
